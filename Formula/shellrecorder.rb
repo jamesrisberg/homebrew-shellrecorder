@@ -6,7 +6,7 @@ class Shellrecorder < Formula
   license "MIT"
 
   def install
-    share.install "shellrecorder.sh" => "shellrecorder/shellrecorder.sh"
+    (share/"shellrecorder").install "shellrecorder.sh"
   end
 
   def caveats
