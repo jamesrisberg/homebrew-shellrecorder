@@ -1,8 +1,8 @@
 class Shellrecorder < Formula
   desc "Record terminal sessions to clean text files"
   homepage "https://github.com/jamesrisberg/shellrecorder"
-  url "https://github.com/jamesrisberg/shellrecorder/archive/refs/tags/v1.6.0.tar.gz"
-  sha256 "4ebe9896605e7e12caae0aaf5830bb37c92b1c2f20980661cd75a203f3b4e48a"
+  url "https://github.com/jamesrisberg/shellrecorder/archive/refs/tags/v1.7.0.tar.gz"
+  sha256 "056d31011e37aa1c25f3ce006160f5fa9627e047911930bbb7b871f7af0624aa"
   license "MIT"
 
   def install
